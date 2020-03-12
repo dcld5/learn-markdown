@@ -22,4 +22,9 @@ Untuk membuat _headers_ membutuhkan (`#`). semakin banyak `#` maka semakin kecil
 
 ### Links
 [GitHub](http://github.com)
-[Instagram](http://instagram.com)
+
+## highlight syntax
+
+```html
+<h1>hello</h1>
+```
